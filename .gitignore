@@ -1,0 +1,55 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+
+# Pylint
+pylint-report.txt
+pylint-global.txt
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Docker
+*.dockerfile
+Dockerfile
+docker-compose.yml
+.docker/
+
+# MongoDB
+*.json
+*.db
+
+# Certificates
+*.pem
+
+# Others
+*.DS_Store
+*.swp
