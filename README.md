@@ -90,17 +90,13 @@ Before setting up the project, ensure you have the following installed:
 2. Create a virtual environment:
 
     ```sh
-    Copy code
     python -m venv venv
-    Activate the virtual environment:
     ```
 
 3. Install the project dependencies:
 
     ```sh
-    Copy code
     pip install -r requirements.txt
-    Configure M
     ```
 
 4. Configure MongoDB
