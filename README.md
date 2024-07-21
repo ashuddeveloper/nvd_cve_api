@@ -97,8 +97,7 @@ Before setting up the project, ensure you have the following installed:
 
 3. Install the project dependencies:
 
-    ```
-    sh
+    ```sh
     Copy code
     pip install -r requirements.txt
     Configure M
@@ -110,8 +109,7 @@ Before setting up the project, ensure you have the following installed:
 
 5. Start the Django development server:
 
-    ```
-    sh
+    ```sh
     python manage.py runserver
     ```
 
